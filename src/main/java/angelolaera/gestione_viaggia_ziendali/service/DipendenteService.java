@@ -1,6 +1,5 @@
 package angelolaera.gestione_viaggia_ziendali.service;
 
-
 import angelolaera.gestione_viaggia_ziendali.entities.Dipendente;
 import angelolaera.gestione_viaggia_ziendali.exception.NotFoundException;
 import angelolaera.gestione_viaggia_ziendali.repository.DipendenteRepository;
